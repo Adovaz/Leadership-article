@@ -1,0 +1,1657 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{Alper2023}{online}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a8216de8b37c212a9ffa04081518a39a}{%
+           family={Alper},
+           familyi={A\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bd0514ccb642ed3aab3f0a85df39c37}{%
+           family={O'Malley},
+           familyi={O\bibinitperiod},
+           given={Terrence\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05f4ae6aff90500b45c0dc05efd26d5c}{%
+           family={Greenwald},
+           familyi={G\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b729f54c276c2411fade9ff9fa24d279}
+      \strng{fullhash}{249d6d48f9fe70b1a6a6f0456ef6c958}
+      \strng{fullhashraw}{249d6d48f9fe70b1a6a6f0456ef6c958}
+      \strng{bibnamehash}{249d6d48f9fe70b1a6a6f0456ef6c958}
+      \strng{authorbibnamehash}{249d6d48f9fe70b1a6a6f0456ef6c958}
+      \strng{authornamehash}{b729f54c276c2411fade9ff9fa24d279}
+      \strng{authorfullhash}{249d6d48f9fe70b1a6a6f0456ef6c958}
+      \strng{authorfullhashraw}{249d6d48f9fe70b1a6a6f0456ef6c958}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{2}
+      \field{title}{Hospital discharge and readmission}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medilib.ir/uptodate/show/2790
+      \endverb
+      \verb{url}
+      \verb https://medilib.ir/uptodate/show/2790
+      \endverb
+    \endentry
+    \entry{Alqenae2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e434a9bc788e5a0a85c44be010dcc661}{%
+           family={Alqenae},
+           familyi={A\bibinitperiod},
+           given={Fatema\bibnamedelima A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33adb586e2e6f1db2a521d49060af6e2}{%
+           family={Steinke},
+           familyi={S\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=971a496d3f1e1d3cdd51b1b7236ee9e0}{%
+           family={Keers},
+           familyi={K\bibinitperiod},
+           given={Richard\bibnamedelima N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0ff1184d8b767f837df2797a4227a620}
+      \strng{fullhash}{b6620ef1758dabf7bfc2d814f6490716}
+      \strng{fullhashraw}{b6620ef1758dabf7bfc2d814f6490716}
+      \strng{bibnamehash}{b6620ef1758dabf7bfc2d814f6490716}
+      \strng{authorbibnamehash}{b6620ef1758dabf7bfc2d814f6490716}
+      \strng{authornamehash}{0ff1184d8b767f837df2797a4227a620}
+      \strng{authorfullhash}{b6620ef1758dabf7bfc2d814f6490716}
+      \strng{authorfullhashraw}{b6620ef1758dabf7bfc2d814f6490716}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0114-5916}
+      \field{journaltitle}{Drug Safety}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{Prevalence and Nature of Medication Errors and Medication-Related Harm Following Discharge from Hospital to Community Settings: A Systematic Review}
+      \field{volume}{43}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{517\bibrangedash 537}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s40264-020-00918-3
+      \endverb
+    \endentry
+    \entry{Dempsey2013}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=23c4279dd2ed06bf912de923e491d490}{%
+           family={Dempsey},
+           familyi={D\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55cc9f9bc3c4a4af1a706d6b7721e4ea}{%
+           family={Hillege},
+           familyi={H\bibinitperiod},
+           given={Sharon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ca8d7c167bf650743fdd91573c0fd6e}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={Robyn},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Australia}%
+      }
+      \list{publisher}{1}{%
+        {Lippincott Williams \& Wilkins}%
+      }
+      \strng{namehash}{53283e22f1705a000517b7a0817bf7f1}
+      \strng{fullhash}{1abd095ba05ae018aacdeeb29faa21b7}
+      \strng{fullhashraw}{1abd095ba05ae018aacdeeb29faa21b7}
+      \strng{bibnamehash}{1abd095ba05ae018aacdeeb29faa21b7}
+      \strng{authorbibnamehash}{1abd095ba05ae018aacdeeb29faa21b7}
+      \strng{authornamehash}{53283e22f1705a000517b7a0817bf7f1}
+      \strng{authorfullhash}{1abd095ba05ae018aacdeeb29faa21b7}
+      \strng{authorfullhashraw}{1abd095ba05ae018aacdeeb29faa21b7}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{18}
+      \field{edition}{2}
+      \field{isbn}{9781920994617}
+      \field{month}{9}
+      \field{subtitle}{A person-centred approach to care}
+      \field{title}{Fundamentals of Nursing and Midwifery}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Flatman2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1b3613908a40ea7dc7f362f1dc1854fb}{%
+           family={Flatman},
+           familyi={F\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {England}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \strng{fullhash}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \strng{fullhashraw}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \strng{bibnamehash}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \strng{authorbibnamehash}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \strng{authornamehash}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \strng{authorfullhash}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \strng{authorfullhashraw}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2514-6645}
+      \field{journaltitle}{Future Healthcare Journal}
+      \field{month}{11}
+      \field{number}{3}
+      \field{title}{How to improve medication safety at hospital discharge: let’s get practical}
+      \field{volume}{8}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{e616\bibrangedash e618}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.7861/fhj.2021-0176
+      \endverb
+    \endentry
+    \entry{Hajialibeigloo2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e906c6515ae760af25ebe47ba249a32c}{%
+           family={Hajialibeigloo},
+           familyi={H\bibinitperiod},
+           given={Reza},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ec2a8c7e3cccc4ced649344e9c3b28d}{%
+           family={Mazlum},
+           familyi={M\bibinitperiod},
+           given={Seyed\bibnamedelima Reza},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fb8ca67ffc2e3b546b37e4209700b1c}{%
+           family={Mohajer},
+           familyi={M\bibinitperiod},
+           given={Samira},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8bfa70bae23d2af382f2becc82232c86}{%
+           family={Morisky},
+           familyi={M\bibinitperiod},
+           given={Donald\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{cae6d96333d9459e437513c521d535f2}
+      \strng{fullhash}{3579839acf1a80cca058e037e65cb032}
+      \strng{fullhashraw}{3579839acf1a80cca058e037e65cb032}
+      \strng{bibnamehash}{3579839acf1a80cca058e037e65cb032}
+      \strng{authorbibnamehash}{3579839acf1a80cca058e037e65cb032}
+      \strng{authornamehash}{cae6d96333d9459e437513c521d535f2}
+      \strng{authorfullhash}{3579839acf1a80cca058e037e65cb032}
+      \strng{authorfullhashraw}{3579839acf1a80cca058e037e65cb032}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2054-1058}
+      \field{journaltitle}{Nursing Open}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{Effect of self‐administration of medication programme on cardiovascular inpatients' medication adherence and nurses' satisfaction: A randomized clinical trial}
+      \field{volume}{8}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{1947\bibrangedash 1957}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1002/nop2.870
+      \endverb
+    \endentry
+    \entry{Mortelmans2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a2812a50301644b243ebf47eb0ba66d5}{%
+           family={Mortelmans},
+           familyi={M\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f307246e82f0504156a9e45275619363}{%
+           family={De\bibnamedelima Baetselier},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Elyne},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=678be85e631f429b25e9e4f3465670b2}{%
+           family={Goossens},
+           familyi={G\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec5249f62759cf02a4f697391b9c27fb}{%
+           family={Dilles},
+           familyi={D\bibinitperiod},
+           given={Tinne},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {Mdpi}%
+      }
+      \strng{namehash}{cdff5fe724ae351d030cf3a158634726}
+      \strng{fullhash}{7a725e2647663413f4b1374be09469e1}
+      \strng{fullhashraw}{7a725e2647663413f4b1374be09469e1}
+      \strng{bibnamehash}{7a725e2647663413f4b1374be09469e1}
+      \strng{authorbibnamehash}{7a725e2647663413f4b1374be09469e1}
+      \strng{authornamehash}{cdff5fe724ae351d030cf3a158634726}
+      \strng{authorfullhash}{7a725e2647663413f4b1374be09469e1}
+      \strng{authorfullhashraw}{7a725e2647663413f4b1374be09469e1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1660-4601}
+      \field{journaltitle}{International Journal of Environmental Research and Public Health}
+      \field{month}{6}
+      \field{number}{13}
+      \field{title}{What Happens after Hospital Discharge? Deficiencies in Medication Management Encountered by Geriatric Patients with Polypharmacy}
+      \field{volume}{18}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{7031}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/ijerph18137031
+      \endverb
+    \endentry
+    \entry{NZNC2012}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=4fb6e81c41bedb287edcbae32e9f5d93}{%
+           family={{Nursing Council of New Zealand}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=12eeb4c696e2ee6473df54f5a7f8dba1}{%
+           family={NCNZ},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{12eeb4c696e2ee6473df54f5a7f8dba1}
+      \strng{fullhash}{4fb6e81c41bedb287edcbae32e9f5d93}
+      \strng{fullhashraw}{4fb6e81c41bedb287edcbae32e9f5d93}
+      \strng{bibnamehash}{12eeb4c696e2ee6473df54f5a7f8dba1}
+      \strng{authorbibnamehash}{4fb6e81c41bedb287edcbae32e9f5d93}
+      \strng{authornamehash}{4fb6e81c41bedb287edcbae32e9f5d93}
+      \strng{authorfullhash}{4fb6e81c41bedb287edcbae32e9f5d93}
+      \strng{authorfullhashraw}{4fb6e81c41bedb287edcbae32e9f5d93}
+      \strng{shortauthorbibnamehash}{12eeb4c696e2ee6473df54f5a7f8dba1}
+      \strng{shortauthornamehash}{12eeb4c696e2ee6473df54f5a7f8dba1}
+      \strng{shortauthorfullhash}{12eeb4c696e2ee6473df54f5a7f8dba1}
+      \strng{shortauthorfullhashraw}{12eeb4c696e2ee6473df54f5a7f8dba1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-908662-45-6}
+      \field{month}{9}
+      \field{title}{Code of Conduct}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://online.flippingbook.com/view/359830702/
+      \endverb
+      \verb{url}
+      \verb https://online.flippingbook.com/view/359830702/
+      \endverb
+    \endentry
+    \entry{Phatak2015}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=9cf2a5d88ac8a4b2b94f8404b07900ba}{%
+           family={Phatak},
+           familyi={P\bibinitperiod},
+           given={Arti},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dfcb61495f82c59550f42fc50ef46d27}{%
+           family={Prusi},
+           familyi={P\bibinitperiod},
+           given={Rachael},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4de49a719b0c80ee3e347ad2fc90052a}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={Brooke},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef50b3956745046294a6005b67281ddc}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Luke\bibnamedelima O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=252246880fb586480493abecdd840041}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Mark\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=452e8ce285fa7633e048b65e1ac2925e}{%
+           family={Vetter},
+           familyi={V\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a67866a36cae0723289468e793e9fc2e}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Noelle},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0e156b5c21e55f4d6f4d9b50626ea47}{%
+           family={Postelnick},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4faa84c363f176f7a0c2e1a385570427}
+      \strng{fullhash}{a05fd902d327647b35c708984540d63b}
+      \strng{fullhashraw}{a05fd902d327647b35c708984540d63b}
+      \strng{bibnamehash}{a05fd902d327647b35c708984540d63b}
+      \strng{authorbibnamehash}{a05fd902d327647b35c708984540d63b}
+      \strng{authornamehash}{4faa84c363f176f7a0c2e1a385570427}
+      \strng{authorfullhash}{a05fd902d327647b35c708984540d63b}
+      \strng{authorfullhashraw}{a05fd902d327647b35c708984540d63b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Hospital Medicine}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Impact of pharmacist involvement in the transitional care of high-risk patients through medication reconciliation, medication education, and postdischarge call-backs (IPITCH Study)}
+      \field{volume}{11}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{39\bibrangedash 44}
+      \range{pages}{6}
+      \verb{doi}
+      \verb https://doi.org/10.1002/jhm.2493
+      \endverb
+      \verb{eprint}
+      \verb https://shmpublications.onlinelibrary.wiley.com/doi/pdf/10.1002/jhm.2493
+      \endverb
+      \verb{urlraw}
+      \verb https://shmpublications.onlinelibrary.wiley.com/doi/abs/10.1002/jhm.2493
+      \endverb
+      \verb{url}
+      \verb https://shmpublications.onlinelibrary.wiley.com/doi/abs/10.1002/jhm.2493
+      \endverb
+    \endentry
+    \entry{Roeung2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e0fbd5e4aac034c33f1c32912011dbbd}{%
+           family={Roeung},
+           familyi={R\bibinitperiod},
+           given={Sophany},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a0754709b8767fa97a89f6ea7367653}{%
+           family={Lindgren},
+           familyi={L\bibinitperiod},
+           given={Teri\bibnamedelima G},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f090286ac2618103e0e07615364d35c}{%
+           family={Carley},
+           familyi={C\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {United States}%
+      }
+      \list{publisher}{1}{%
+        {Lippincott Williams \& Wilkins}%
+      }
+      \strng{namehash}{8dbadda4177684cb6326ba7ff6a34b6d}
+      \strng{fullhash}{4485107c62cf20a8236f1dfb0912bc6c}
+      \strng{fullhashraw}{4485107c62cf20a8236f1dfb0912bc6c}
+      \strng{bibnamehash}{4485107c62cf20a8236f1dfb0912bc6c}
+      \strng{authorbibnamehash}{4485107c62cf20a8236f1dfb0912bc6c}
+      \strng{authornamehash}{8dbadda4177684cb6326ba7ff6a34b6d}
+      \strng{authorfullhash}{4485107c62cf20a8236f1dfb0912bc6c}
+      \strng{authorfullhashraw}{4485107c62cf20a8236f1dfb0912bc6c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0002-936X}
+      \field{journaltitle}{The American Journal of Nursing}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Improving Discharge Teaching for Adult Patients with an Ileostomy}
+      \field{volume}{124}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{41\bibrangedash 46}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1097/01.NAJ.0001004936.98276.ad
+      \endverb
+    \endentry
+    \entry{Sanjai2019}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=7901f878d5fa5397928a817d6e4d35fe}{%
+           family={Sinha},
+           familyi={S\bibinitperiod},
+           given={Sanjai},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8f83224912f5a284bbf1a7b0ee2c485}{%
+           family={Dillon},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8059c1d463d1d670bc049a3fc763d81}{%
+           family={Dargar},
+           familyi={D\bibinitperiod},
+           given={Savira\bibnamedelima Kochhar},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc25df0918e96893c2af6f954e3f3830}{%
+           family={Archambault},
+           familyi={A\bibinitperiod},
+           given={Alexi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6a8fb106726d083b873cca74b23248e}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=819e282a2dacaf4ebe30f33dd7696259}{%
+           family={Frankel},
+           familyi={F\bibinitperiod},
+           given={Brittney\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=183e4016ebefa374c408e7bf7ac8f08b}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jennifer\bibnamedelima Inhae},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11d29fe93822caecce8e14c0a0f22355}{%
+           family={Carmel},
+           familyi={C\bibinitperiod},
+           given={Amanda\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f89815764ce888a2fe5e59485764c68e}{%
+           family={Safford},
+           familyi={S\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{df98aeb20a933fe2dc8e7b27aabbf1e5}
+      \strng{fullhash}{59e786ba4994ab72d0994858cdb6b61d}
+      \strng{fullhashraw}{59e786ba4994ab72d0994858cdb6b61d}
+      \strng{bibnamehash}{59e786ba4994ab72d0994858cdb6b61d}
+      \strng{authorbibnamehash}{59e786ba4994ab72d0994858cdb6b61d}
+      \strng{authornamehash}{df98aeb20a933fe2dc8e7b27aabbf1e5}
+      \strng{authorfullhash}{59e786ba4994ab72d0994858cdb6b61d}
+      \strng{authorfullhashraw}{59e786ba4994ab72d0994858cdb6b61d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Health Informatics Journal}
+      \field{number}{4}
+      \field{title}{What to expect that you’re not expecting: A pilot video education intervention to improve patient self-efficacy surrounding discharge medication barriers}
+      \field{volume}{25}
+      \field{year}{2019}
+      \field{pages}{1595\bibrangedash 1605}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1177/1460458218796644
+      \endverb
+    \endentry
+    \entry{Sulosaari2014}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=e6429331e424f8ac0ffc21662f96b59f}{%
+           family={Sulosaari},
+           familyi={S\bibinitperiod},
+           given={Virpi},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a49e1e7bc8cac5747fc883fdbbe735cb}{%
+           family={Huupponen},
+           familyi={H\bibinitperiod},
+           given={Risto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e55ba44cc728537f0e8195fc01aaaa1e}{%
+           family={Torniainen},
+           familyi={T\bibinitperiod},
+           given={Kirsti},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6437eeb3e437c55650e820b20846ff7e}{%
+           family={Hupli},
+           familyi={H\bibinitperiod},
+           given={Maija},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2180e451a13122d22a6fe098a86b60b}{%
+           family={Puukka},
+           familyi={P\bibinitperiod},
+           given={Pauli},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ba58ca76c5dea11a036b8215a16a256}{%
+           family={Leino-Kilpi},
+           familyi={L\bibinithyphendelim K\bibinitperiod},
+           given={Helena},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8a359240ec6d5682309e33ea39ed937b}
+      \strng{fullhash}{43951f42f94bfebfa8d1bda9cdafbbc5}
+      \strng{fullhashraw}{43951f42f94bfebfa8d1bda9cdafbbc5}
+      \strng{bibnamehash}{43951f42f94bfebfa8d1bda9cdafbbc5}
+      \strng{authorbibnamehash}{43951f42f94bfebfa8d1bda9cdafbbc5}
+      \strng{authornamehash}{8a359240ec6d5682309e33ea39ed937b}
+      \strng{authorfullhash}{43951f42f94bfebfa8d1bda9cdafbbc5}
+      \strng{authorfullhashraw}{43951f42f94bfebfa8d1bda9cdafbbc5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1322-7696}
+      \field{journaltitle}{Collegian}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Medication education in nursing programmes in Finland – Findings from a national survey}
+      \field{volume}{21}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{327\bibrangedash 335}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.colegn.2013.08.003
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S132276961300084X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S132276961300084X
+      \endverb
+    \endentry
+    \entry{Weir2020}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=237aa7bd157a0c8aedb54486baf1bcf7}{%
+           family={Weir},
+           familyi={W\bibinitperiod},
+           given={Daniala\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e966213b6c1fc05b70025b2d2564a148}{%
+           family={Motulsky},
+           familyi={M\bibinitperiod},
+           given={Aude},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e30c49b3b47e9a1dc646c6dc86912ef}{%
+           family={Abrahamowicz},
+           familyi={A\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec908ecf6eac9f7f0d8d1690896103af}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Todd\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56a3ef80d186a92d45a90e230094b012}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfd5c0ca5bb5b2033ad1c2bd71085cb3}{%
+           family={Buckeridge},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae5352757e8edfc0902ab92a3e737eef}{%
+           family={Tamblyn},
+           familyi={T\bibinitperiod},
+           given={Robyn},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{f97e6be673a9f3c8e737df85bc7049a8}
+      \strng{fullhash}{8218543f9449c9646292330315bbe8e0}
+      \strng{fullhashraw}{8218543f9449c9646292330315bbe8e0}
+      \strng{bibnamehash}{8218543f9449c9646292330315bbe8e0}
+      \strng{authorbibnamehash}{8218543f9449c9646292330315bbe8e0}
+      \strng{authornamehash}{f97e6be673a9f3c8e737df85bc7049a8}
+      \strng{authorfullhash}{8218543f9449c9646292330315bbe8e0}
+      \strng{authorfullhashraw}{8218543f9449c9646292330315bbe8e0}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0017-9124}
+      \field{journaltitle}{Health Services Research}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{Failure to follow medication changes made at hospital discharge is associated with adverse events in 30 days}
+      \field{volume}{55}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{512\bibrangedash 523}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1111/1475-6773.13292
+      \endverb
+    \endentry
+    \entry{Yap2016}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bb7f9c6b5801cdc194bb613777a64de0}{%
+           family={Yap},
+           familyi={Y\bibinitperiod},
+           given={Angela\bibnamedelima Frances},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bc179bf4ebaba69a015fefa7610e7f8}{%
+           family={Thirumoorthy},
+           familyi={T\bibinitperiod},
+           given={Thiru},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e38d30e85269748517adbc018fbb478}{%
+           family={Kwan},
+           familyi={K\bibinitperiod},
+           given={Yu\bibnamedelima Heng},
+           giveni={Y\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1662514ddc303dc661d8cb13fb915aa9}
+      \strng{fullhash}{dafbf65bef0db2d0fad83c1bd5e2f229}
+      \strng{fullhashraw}{dafbf65bef0db2d0fad83c1bd5e2f229}
+      \strng{bibnamehash}{dafbf65bef0db2d0fad83c1bd5e2f229}
+      \strng{authorbibnamehash}{dafbf65bef0db2d0fad83c1bd5e2f229}
+      \strng{authornamehash}{1662514ddc303dc661d8cb13fb915aa9}
+      \strng{authorfullhash}{dafbf65bef0db2d0fad83c1bd5e2f229}
+      \strng{authorfullhashraw}{dafbf65bef0db2d0fad83c1bd5e2f229}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2210-8335}
+      \field{journaltitle}{Journal of Clinical Gerontology and Geriatrics}
+      \field{month}{6}
+      \field{number}{2}
+      \field{title}{Medication adherence in the elderly}
+      \field{volume}{7}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{64\bibrangedash 67}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1016/j.jcgg.2015.05.001
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2210833515000441
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2210833515000441
+      \endverb
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{Alper2023}{online}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=a8216de8b37c212a9ffa04081518a39a}{%
+           family={Alper},
+           familyi={A\bibinitperiod},
+           given={Eric},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2bd0514ccb642ed3aab3f0a85df39c37}{%
+           family={O'Malley},
+           familyi={O\bibinitperiod},
+           given={Terrence\bibnamedelima A.},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=05f4ae6aff90500b45c0dc05efd26d5c}{%
+           family={Greenwald},
+           familyi={G\bibinitperiod},
+           given={Jeffrey},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{b729f54c276c2411fade9ff9fa24d279}
+      \strng{fullhash}{249d6d48f9fe70b1a6a6f0456ef6c958}
+      \strng{fullhashraw}{249d6d48f9fe70b1a6a6f0456ef6c958}
+      \strng{bibnamehash}{249d6d48f9fe70b1a6a6f0456ef6c958}
+      \strng{authorbibnamehash}{249d6d48f9fe70b1a6a6f0456ef6c958}
+      \strng{authornamehash}{b729f54c276c2411fade9ff9fa24d279}
+      \strng{authorfullhash}{249d6d48f9fe70b1a6a6f0456ef6c958}
+      \strng{authorfullhashraw}{249d6d48f9fe70b1a6a6f0456ef6c958}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{3}
+      \field{month}{2}
+      \field{title}{Hospital discharge and readmission}
+      \field{urlday}{16}
+      \field{urlmonth}{5}
+      \field{urlyear}{2024}
+      \field{year}{2023}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://medilib.ir/uptodate/show/2790
+      \endverb
+      \verb{url}
+      \verb https://medilib.ir/uptodate/show/2790
+      \endverb
+    \endentry
+    \entry{Alqenae2020}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e434a9bc788e5a0a85c44be010dcc661}{%
+           family={Alqenae},
+           familyi={A\bibinitperiod},
+           given={Fatema\bibnamedelima A.},
+           giveni={F\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=33adb586e2e6f1db2a521d49060af6e2}{%
+           family={Steinke},
+           familyi={S\bibinitperiod},
+           given={Douglas},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=971a496d3f1e1d3cdd51b1b7236ee9e0}{%
+           family={Keers},
+           familyi={K\bibinitperiod},
+           given={Richard\bibnamedelima N.},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{0ff1184d8b767f837df2797a4227a620}
+      \strng{fullhash}{b6620ef1758dabf7bfc2d814f6490716}
+      \strng{fullhashraw}{b6620ef1758dabf7bfc2d814f6490716}
+      \strng{bibnamehash}{b6620ef1758dabf7bfc2d814f6490716}
+      \strng{authorbibnamehash}{b6620ef1758dabf7bfc2d814f6490716}
+      \strng{authornamehash}{0ff1184d8b767f837df2797a4227a620}
+      \strng{authorfullhash}{b6620ef1758dabf7bfc2d814f6490716}
+      \strng{authorfullhashraw}{b6620ef1758dabf7bfc2d814f6490716}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0114-5916}
+      \field{journaltitle}{Drug Safety}
+      \field{month}{6}
+      \field{number}{6}
+      \field{title}{Prevalence and Nature of Medication Errors and Medication-Related Harm Following Discharge from Hospital to Community Settings: A Systematic Review}
+      \field{volume}{43}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{517\bibrangedash 537}
+      \range{pages}{21}
+      \verb{doi}
+      \verb 10.1007/s40264-020-00918-3
+      \endverb
+    \endentry
+    \entry{Dempsey2013}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=23c4279dd2ed06bf912de923e491d490}{%
+           family={Dempsey},
+           familyi={D\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=55cc9f9bc3c4a4af1a706d6b7721e4ea}{%
+           family={Hillege},
+           familyi={H\bibinitperiod},
+           given={Sharon},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1ca8d7c167bf650743fdd91573c0fd6e}{%
+           family={Hill},
+           familyi={H\bibinitperiod},
+           given={Robyn},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {Australia}%
+      }
+      \list{publisher}{1}{%
+        {Lippincott Williams \& Wilkins}%
+      }
+      \strng{namehash}{53283e22f1705a000517b7a0817bf7f1}
+      \strng{fullhash}{1abd095ba05ae018aacdeeb29faa21b7}
+      \strng{fullhashraw}{1abd095ba05ae018aacdeeb29faa21b7}
+      \strng{bibnamehash}{1abd095ba05ae018aacdeeb29faa21b7}
+      \strng{authorbibnamehash}{1abd095ba05ae018aacdeeb29faa21b7}
+      \strng{authornamehash}{53283e22f1705a000517b7a0817bf7f1}
+      \strng{authorfullhash}{1abd095ba05ae018aacdeeb29faa21b7}
+      \strng{authorfullhashraw}{1abd095ba05ae018aacdeeb29faa21b7}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{day}{18}
+      \field{edition}{2}
+      \field{isbn}{9781920994617}
+      \field{month}{9}
+      \field{subtitle}{A person-centred approach to care}
+      \field{title}{Fundamentals of Nursing and Midwifery}
+      \field{year}{2013}
+      \field{dateera}{ce}
+    \endentry
+    \entry{Flatman2021}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1b3613908a40ea7dc7f362f1dc1854fb}{%
+           family={Flatman},
+           familyi={F\bibinitperiod},
+           given={Jennifer},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {England}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \strng{fullhash}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \strng{fullhashraw}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \strng{bibnamehash}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \strng{authorbibnamehash}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \strng{authornamehash}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \strng{authorfullhash}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \strng{authorfullhashraw}{1b3613908a40ea7dc7f362f1dc1854fb}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2514-6645}
+      \field{journaltitle}{Future Healthcare Journal}
+      \field{month}{11}
+      \field{number}{3}
+      \field{title}{How to improve medication safety at hospital discharge: let’s get practical}
+      \field{volume}{8}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{e616\bibrangedash e618}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.7861/fhj.2021-0176
+      \endverb
+    \endentry
+    \entry{Hajialibeigloo2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=e906c6515ae760af25ebe47ba249a32c}{%
+           family={Hajialibeigloo},
+           familyi={H\bibinitperiod},
+           given={Reza},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8ec2a8c7e3cccc4ced649344e9c3b28d}{%
+           family={Mazlum},
+           familyi={M\bibinitperiod},
+           given={Seyed\bibnamedelima Reza},
+           giveni={S\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7fb8ca67ffc2e3b546b37e4209700b1c}{%
+           family={Mohajer},
+           familyi={M\bibinitperiod},
+           given={Samira},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8bfa70bae23d2af382f2becc82232c86}{%
+           family={Morisky},
+           familyi={M\bibinitperiod},
+           given={Donald\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{cae6d96333d9459e437513c521d535f2}
+      \strng{fullhash}{3579839acf1a80cca058e037e65cb032}
+      \strng{fullhashraw}{3579839acf1a80cca058e037e65cb032}
+      \strng{bibnamehash}{3579839acf1a80cca058e037e65cb032}
+      \strng{authorbibnamehash}{3579839acf1a80cca058e037e65cb032}
+      \strng{authornamehash}{cae6d96333d9459e437513c521d535f2}
+      \strng{authorfullhash}{3579839acf1a80cca058e037e65cb032}
+      \strng{authorfullhashraw}{3579839acf1a80cca058e037e65cb032}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2054-1058}
+      \field{journaltitle}{Nursing Open}
+      \field{month}{7}
+      \field{number}{4}
+      \field{title}{Effect of self‐administration of medication programme on cardiovascular inpatients' medication adherence and nurses' satisfaction: A randomized clinical trial}
+      \field{volume}{8}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{1947\bibrangedash 1957}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1002/nop2.870
+      \endverb
+    \endentry
+    \entry{Mortelmans2021}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a2812a50301644b243ebf47eb0ba66d5}{%
+           family={Mortelmans},
+           familyi={M\bibinitperiod},
+           given={Laura},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f307246e82f0504156a9e45275619363}{%
+           family={De\bibnamedelima Baetselier},
+           familyi={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Elyne},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=678be85e631f429b25e9e4f3465670b2}{%
+           family={Goossens},
+           familyi={G\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec5249f62759cf02a4f697391b9c27fb}{%
+           family={Dilles},
+           familyi={D\bibinitperiod},
+           given={Tinne},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {Mdpi}%
+      }
+      \strng{namehash}{cdff5fe724ae351d030cf3a158634726}
+      \strng{fullhash}{7a725e2647663413f4b1374be09469e1}
+      \strng{fullhashraw}{7a725e2647663413f4b1374be09469e1}
+      \strng{bibnamehash}{7a725e2647663413f4b1374be09469e1}
+      \strng{authorbibnamehash}{7a725e2647663413f4b1374be09469e1}
+      \strng{authornamehash}{cdff5fe724ae351d030cf3a158634726}
+      \strng{authorfullhash}{7a725e2647663413f4b1374be09469e1}
+      \strng{authorfullhashraw}{7a725e2647663413f4b1374be09469e1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1660-4601}
+      \field{journaltitle}{International Journal of Environmental Research and Public Health}
+      \field{month}{6}
+      \field{number}{13}
+      \field{title}{What Happens after Hospital Discharge? Deficiencies in Medication Management Encountered by Geriatric Patients with Polypharmacy}
+      \field{volume}{18}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{pages}{7031}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/ijerph18137031
+      \endverb
+    \endentry
+    \entry{NZNC2012}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=4fb6e81c41bedb287edcbae32e9f5d93}{%
+           family={{Nursing Council of New Zealand}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=12eeb4c696e2ee6473df54f5a7f8dba1}{%
+           family={NCNZ},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{12eeb4c696e2ee6473df54f5a7f8dba1}
+      \strng{fullhash}{4fb6e81c41bedb287edcbae32e9f5d93}
+      \strng{fullhashraw}{4fb6e81c41bedb287edcbae32e9f5d93}
+      \strng{bibnamehash}{12eeb4c696e2ee6473df54f5a7f8dba1}
+      \strng{authorbibnamehash}{4fb6e81c41bedb287edcbae32e9f5d93}
+      \strng{authornamehash}{4fb6e81c41bedb287edcbae32e9f5d93}
+      \strng{authorfullhash}{4fb6e81c41bedb287edcbae32e9f5d93}
+      \strng{authorfullhashraw}{4fb6e81c41bedb287edcbae32e9f5d93}
+      \strng{shortauthorbibnamehash}{12eeb4c696e2ee6473df54f5a7f8dba1}
+      \strng{shortauthornamehash}{12eeb4c696e2ee6473df54f5a7f8dba1}
+      \strng{shortauthorfullhash}{12eeb4c696e2ee6473df54f5a7f8dba1}
+      \strng{shortauthorfullhashraw}{12eeb4c696e2ee6473df54f5a7f8dba1}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{isbn}{978-0-908662-45-6}
+      \field{month}{9}
+      \field{title}{Code of Conduct}
+      \field{year}{2012}
+      \field{dateera}{ce}
+      \verb{urlraw}
+      \verb https://online.flippingbook.com/view/359830702/
+      \endverb
+      \verb{url}
+      \verb https://online.flippingbook.com/view/359830702/
+      \endverb
+    \endentry
+    \entry{Phatak2015}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=9cf2a5d88ac8a4b2b94f8404b07900ba}{%
+           family={Phatak},
+           familyi={P\bibinitperiod},
+           given={Arti},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dfcb61495f82c59550f42fc50ef46d27}{%
+           family={Prusi},
+           familyi={P\bibinitperiod},
+           given={Rachael},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4de49a719b0c80ee3e347ad2fc90052a}{%
+           family={Ward},
+           familyi={W\bibinitperiod},
+           given={Brooke},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ef50b3956745046294a6005b67281ddc}{%
+           family={Hansen},
+           familyi={H\bibinitperiod},
+           given={Luke\bibnamedelima O.},
+           giveni={L\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=252246880fb586480493abecdd840041}{%
+           family={Williams},
+           familyi={W\bibinitperiod},
+           given={Mark\bibnamedelima V.},
+           giveni={M\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=452e8ce285fa7633e048b65e1ac2925e}{%
+           family={Vetter},
+           familyi={V\bibinitperiod},
+           given={Elizabeth},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a67866a36cae0723289468e793e9fc2e}{%
+           family={Chapman},
+           familyi={C\bibinitperiod},
+           given={Noelle},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e0e156b5c21e55f4d6f4d9b50626ea47}{%
+           family={Postelnick},
+           familyi={P\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{4faa84c363f176f7a0c2e1a385570427}
+      \strng{fullhash}{a05fd902d327647b35c708984540d63b}
+      \strng{fullhashraw}{a05fd902d327647b35c708984540d63b}
+      \strng{bibnamehash}{a05fd902d327647b35c708984540d63b}
+      \strng{authorbibnamehash}{a05fd902d327647b35c708984540d63b}
+      \strng{authornamehash}{4faa84c363f176f7a0c2e1a385570427}
+      \strng{authorfullhash}{a05fd902d327647b35c708984540d63b}
+      \strng{authorfullhashraw}{a05fd902d327647b35c708984540d63b}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Hospital Medicine}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Impact of pharmacist involvement in the transitional care of high-risk patients through medication reconciliation, medication education, and postdischarge call-backs (IPITCH Study)}
+      \field{volume}{11}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{39\bibrangedash 44}
+      \range{pages}{6}
+      \verb{doi}
+      \verb https://doi.org/10.1002/jhm.2493
+      \endverb
+      \verb{eprint}
+      \verb https://shmpublications.onlinelibrary.wiley.com/doi/pdf/10.1002/jhm.2493
+      \endverb
+      \verb{urlraw}
+      \verb https://shmpublications.onlinelibrary.wiley.com/doi/abs/10.1002/jhm.2493
+      \endverb
+      \verb{url}
+      \verb https://shmpublications.onlinelibrary.wiley.com/doi/abs/10.1002/jhm.2493
+      \endverb
+    \endentry
+    \entry{Roeung2024}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e0fbd5e4aac034c33f1c32912011dbbd}{%
+           family={Roeung},
+           familyi={R\bibinitperiod},
+           given={Sophany},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a0754709b8767fa97a89f6ea7367653}{%
+           family={Lindgren},
+           familyi={L\bibinitperiod},
+           given={Teri\bibnamedelima G},
+           giveni={T\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f090286ac2618103e0e07615364d35c}{%
+           family={Carley},
+           familyi={C\bibinitperiod},
+           given={Annette},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{location}{1}{%
+        {United States}%
+      }
+      \list{publisher}{1}{%
+        {Lippincott Williams \& Wilkins}%
+      }
+      \strng{namehash}{8dbadda4177684cb6326ba7ff6a34b6d}
+      \strng{fullhash}{4485107c62cf20a8236f1dfb0912bc6c}
+      \strng{fullhashraw}{4485107c62cf20a8236f1dfb0912bc6c}
+      \strng{bibnamehash}{4485107c62cf20a8236f1dfb0912bc6c}
+      \strng{authorbibnamehash}{4485107c62cf20a8236f1dfb0912bc6c}
+      \strng{authornamehash}{8dbadda4177684cb6326ba7ff6a34b6d}
+      \strng{authorfullhash}{4485107c62cf20a8236f1dfb0912bc6c}
+      \strng{authorfullhashraw}{4485107c62cf20a8236f1dfb0912bc6c}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0002-936X}
+      \field{journaltitle}{The American Journal of Nursing}
+      \field{month}{1}
+      \field{number}{1}
+      \field{title}{Improving Discharge Teaching for Adult Patients with an Ileostomy}
+      \field{volume}{124}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{41\bibrangedash 46}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1097/01.NAJ.0001004936.98276.ad
+      \endverb
+    \endentry
+    \entry{Sanjai2019}{article}{}{}
+      \name{author}{9}{}{%
+        {{un=0,uniquepart=base,hash=7901f878d5fa5397928a817d6e4d35fe}{%
+           family={Sinha},
+           familyi={S\bibinitperiod},
+           given={Sanjai},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c8f83224912f5a284bbf1a7b0ee2c485}{%
+           family={Dillon},
+           familyi={D\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e8059c1d463d1d670bc049a3fc763d81}{%
+           family={Dargar},
+           familyi={D\bibinitperiod},
+           given={Savira\bibnamedelima Kochhar},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc25df0918e96893c2af6f954e3f3830}{%
+           family={Archambault},
+           familyi={A\bibinitperiod},
+           given={Alexi},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b6a8fb106726d083b873cca74b23248e}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=819e282a2dacaf4ebe30f33dd7696259}{%
+           family={Frankel},
+           familyi={F\bibinitperiod},
+           given={Brittney\bibnamedelima A},
+           giveni={B\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=183e4016ebefa374c408e7bf7ac8f08b}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Jennifer\bibnamedelima Inhae},
+           giveni={J\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11d29fe93822caecce8e14c0a0f22355}{%
+           family={Carmel},
+           familyi={C\bibinitperiod},
+           given={Amanda\bibnamedelima S},
+           giveni={A\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f89815764ce888a2fe5e59485764c68e}{%
+           family={Safford},
+           familyi={S\bibinitperiod},
+           given={Monika},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{df98aeb20a933fe2dc8e7b27aabbf1e5}
+      \strng{fullhash}{59e786ba4994ab72d0994858cdb6b61d}
+      \strng{fullhashraw}{59e786ba4994ab72d0994858cdb6b61d}
+      \strng{bibnamehash}{59e786ba4994ab72d0994858cdb6b61d}
+      \strng{authorbibnamehash}{59e786ba4994ab72d0994858cdb6b61d}
+      \strng{authornamehash}{df98aeb20a933fe2dc8e7b27aabbf1e5}
+      \strng{authorfullhash}{59e786ba4994ab72d0994858cdb6b61d}
+      \strng{authorfullhashraw}{59e786ba4994ab72d0994858cdb6b61d}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Health Informatics Journal}
+      \field{number}{4}
+      \field{title}{What to expect that you’re not expecting: A pilot video education intervention to improve patient self-efficacy surrounding discharge medication barriers}
+      \field{volume}{25}
+      \field{year}{2019}
+      \field{pages}{1595\bibrangedash 1605}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1177/1460458218796644
+      \endverb
+    \endentry
+    \entry{Sulosaari2014}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=e6429331e424f8ac0ffc21662f96b59f}{%
+           family={Sulosaari},
+           familyi={S\bibinitperiod},
+           given={Virpi},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a49e1e7bc8cac5747fc883fdbbe735cb}{%
+           family={Huupponen},
+           familyi={H\bibinitperiod},
+           given={Risto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e55ba44cc728537f0e8195fc01aaaa1e}{%
+           family={Torniainen},
+           familyi={T\bibinitperiod},
+           given={Kirsti},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6437eeb3e437c55650e820b20846ff7e}{%
+           family={Hupli},
+           familyi={H\bibinitperiod},
+           given={Maija},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b2180e451a13122d22a6fe098a86b60b}{%
+           family={Puukka},
+           familyi={P\bibinitperiod},
+           given={Pauli},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ba58ca76c5dea11a036b8215a16a256}{%
+           family={Leino-Kilpi},
+           familyi={L\bibinithyphendelim K\bibinitperiod},
+           given={Helena},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{8a359240ec6d5682309e33ea39ed937b}
+      \strng{fullhash}{43951f42f94bfebfa8d1bda9cdafbbc5}
+      \strng{fullhashraw}{43951f42f94bfebfa8d1bda9cdafbbc5}
+      \strng{bibnamehash}{43951f42f94bfebfa8d1bda9cdafbbc5}
+      \strng{authorbibnamehash}{43951f42f94bfebfa8d1bda9cdafbbc5}
+      \strng{authornamehash}{8a359240ec6d5682309e33ea39ed937b}
+      \strng{authorfullhash}{43951f42f94bfebfa8d1bda9cdafbbc5}
+      \strng{authorfullhashraw}{43951f42f94bfebfa8d1bda9cdafbbc5}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1322-7696}
+      \field{journaltitle}{Collegian}
+      \field{month}{12}
+      \field{number}{4}
+      \field{title}{Medication education in nursing programmes in Finland – Findings from a national survey}
+      \field{volume}{21}
+      \field{year}{2014}
+      \field{dateera}{ce}
+      \field{pages}{327\bibrangedash 335}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/j.colegn.2013.08.003
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S132276961300084X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S132276961300084X
+      \endverb
+    \endentry
+    \entry{Weir2020}{article}{}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=237aa7bd157a0c8aedb54486baf1bcf7}{%
+           family={Weir},
+           familyi={W\bibinitperiod},
+           given={Daniala\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e966213b6c1fc05b70025b2d2564a148}{%
+           family={Motulsky},
+           familyi={M\bibinitperiod},
+           given={Aude},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0e30c49b3b47e9a1dc646c6dc86912ef}{%
+           family={Abrahamowicz},
+           familyi={A\bibinitperiod},
+           given={Michal},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ec908ecf6eac9f7f0d8d1690896103af}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Todd\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56a3ef80d186a92d45a90e230094b012}{%
+           family={Morgan},
+           familyi={M\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bfd5c0ca5bb5b2033ad1c2bd71085cb3}{%
+           family={Buckeridge},
+           familyi={B\bibinitperiod},
+           given={David\bibnamedelima L.},
+           giveni={D\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae5352757e8edfc0902ab92a3e737eef}{%
+           family={Tamblyn},
+           familyi={T\bibinitperiod},
+           given={Robyn},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {eng}%
+      }
+      \list{publisher}{1}{%
+        {Wiley}%
+      }
+      \strng{namehash}{f97e6be673a9f3c8e737df85bc7049a8}
+      \strng{fullhash}{8218543f9449c9646292330315bbe8e0}
+      \strng{fullhashraw}{8218543f9449c9646292330315bbe8e0}
+      \strng{bibnamehash}{8218543f9449c9646292330315bbe8e0}
+      \strng{authorbibnamehash}{8218543f9449c9646292330315bbe8e0}
+      \strng{authornamehash}{f97e6be673a9f3c8e737df85bc7049a8}
+      \strng{authorfullhash}{8218543f9449c9646292330315bbe8e0}
+      \strng{authorfullhashraw}{8218543f9449c9646292330315bbe8e0}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0017-9124}
+      \field{journaltitle}{Health Services Research}
+      \field{month}{8}
+      \field{number}{4}
+      \field{title}{Failure to follow medication changes made at hospital discharge is associated with adverse events in 30 days}
+      \field{volume}{55}
+      \field{year}{2020}
+      \field{dateera}{ce}
+      \field{pages}{512\bibrangedash 523}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1111/1475-6773.13292
+      \endverb
+    \endentry
+    \entry{Yap2016}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=bb7f9c6b5801cdc194bb613777a64de0}{%
+           family={Yap},
+           familyi={Y\bibinitperiod},
+           given={Angela\bibnamedelima Frances},
+           giveni={A\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bc179bf4ebaba69a015fefa7610e7f8}{%
+           family={Thirumoorthy},
+           familyi={T\bibinitperiod},
+           given={Thiru},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1e38d30e85269748517adbc018fbb478}{%
+           family={Kwan},
+           familyi={K\bibinitperiod},
+           given={Yu\bibnamedelima Heng},
+           giveni={Y\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1662514ddc303dc661d8cb13fb915aa9}
+      \strng{fullhash}{dafbf65bef0db2d0fad83c1bd5e2f229}
+      \strng{fullhashraw}{dafbf65bef0db2d0fad83c1bd5e2f229}
+      \strng{bibnamehash}{dafbf65bef0db2d0fad83c1bd5e2f229}
+      \strng{authorbibnamehash}{dafbf65bef0db2d0fad83c1bd5e2f229}
+      \strng{authornamehash}{1662514ddc303dc661d8cb13fb915aa9}
+      \strng{authorfullhash}{dafbf65bef0db2d0fad83c1bd5e2f229}
+      \strng{authorfullhashraw}{dafbf65bef0db2d0fad83c1bd5e2f229}
+      \field{sortinit}{Y}
+      \field{sortinithash}{fd67ad5a9ef0f7456bdd9aab10fe1495}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2210-8335}
+      \field{journaltitle}{Journal of Clinical Gerontology and Geriatrics}
+      \field{month}{6}
+      \field{number}{2}
+      \field{title}{Medication adherence in the elderly}
+      \field{volume}{7}
+      \field{year}{2016}
+      \field{dateera}{ce}
+      \field{pages}{64\bibrangedash 67}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1016/j.jcgg.2015.05.001
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2210833515000441
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2210833515000441
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
